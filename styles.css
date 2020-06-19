@@ -1,0 +1,115 @@
+styles.css
+
+html, body{
+    background-color: #cccccc;
+    font-family: Calibri;
+}
+
+#blocpage {
+    width: 750px;
+    padding-top: 10px; padding-bottom: 30px; padding-left: 10%; padding-right: 10%;
+    background-color: white;
+    font-size: large;
+    align-content: center;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-size: 25px;
+    font-family: Calibri;
+    font-weight: bold;
+    font-weight: 500;
+    }
+
+hr {
+height: 3px;
+background-color: #bebebe;
+color: #bebebe;
+width: 95%;
+}
+
+#profil {
+width : 220px; height : 220px;
+  -moz-border-radius : 75px;
+  -webkit-border-radius : 75px;
+  border-radius : 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#T, #S {
+    color:#0ac3a7;
+    font-size: 80px;   
+
+}
+#homa {
+font-size: 40px;
+}
+
+#accroche {
+font-size: 25px;
+font-weight: bold;
+text-transform: uppercase;
+color:grey;
+letter-spacing: -1px;
+}
+
+#introduction {
+font-style: italic;
+font-weight: bold;
+color: #bebebe;
+}
+
+section {
+
+}
+
+h1 {
+text-align: center;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-weight: black;
+    font-size: 30px;
+    letter-spacing: -1px;
+    color: grey;
+}
+
+.rouge {
+    color: red;
+}
+
+ul {
+ color: #5ece02     
+}
+
+.wrapper {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        row-gap: 5px;
+        column-gap: 5px;
+  }
+
+  .imggrid {
+    width: 195px;
+    height: 195px;    
+}
+
+#footer {
+    width: 750px;
+    padding-top: 10px; padding-bottom: 10px; padding-left: 10%; padding-right: 10%;
+    background-color: #dddddd;
+    font-size: large;
+    align-content: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+  
